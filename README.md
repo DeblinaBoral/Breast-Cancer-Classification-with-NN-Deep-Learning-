@@ -17,11 +17,10 @@ The Breast Cancer Classification model leverages deep learning techniques to cla
 - Recall: 98%
 
 **Highlights**
-Data Preprocessing: Performed feature scaling using StandardScaler to normalize the data.
 
-Model Training: Trained over 100 epochs with a batch size of 32, utilizing the Adam optimizer and binary cross-entropy loss function.
-
-Evaluation: Used confusion matrix and ROC-AUC curve to assess model performance.
+- Data Preprocessing: Performed feature scaling using StandardScaler to normalize the data.
+- Model Training: Trained over 100 epochs with a batch size of 32, utilizing the Adam optimizer and binary cross-entropy loss function.
+- Evaluation: Used confusion matrix and ROC-AUC curve to assess model performance.
 
 **Results**
 The neural network demonstrated high accuracy and robustness in classifying breast cancer tumors, indicating its potential as a decision-support tool in clinical settings.
